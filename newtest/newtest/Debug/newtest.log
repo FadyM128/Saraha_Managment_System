@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  user.cpp
+  Generating Code...
+D:\newtest\newtest\user.cpp(106): warning C4715: 'user::checknames': not all control paths return a value
+  newtest.vcxproj -> D:\newtest\Debug\newtest.exe
