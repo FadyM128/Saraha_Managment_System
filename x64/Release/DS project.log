@@ -1,0 +1,12 @@
+﻿  global.cpp
+C:\Users\pc\source\repos\DS project\global.cpp(13,16): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+C:\Users\pc\source\repos\DS project\global.cpp(13,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\pc\source\repos\DS project\main.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.cpp
+  user.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\pc\source\repos\DS project\user.cpp(105): warning C4715: 'user::checknames': not all control paths return a value
+  global.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DS project.vcxproj -> C:\Users\pc\source\repos\DS project\x64\Release\DS project.exe

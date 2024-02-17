@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\DS project\Release\DS project.vcxproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DS project\Release\DS project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\DS project\Release\DSproject.MyForm.resources
+C:\Users\pc\source\repos\DS project\Release\DS project.vcxproj.GenerateResource.cache
+C:\Users\pc\source\repos\DS project\Release\DS project.exe

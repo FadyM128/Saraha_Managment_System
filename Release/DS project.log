@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  main.cpp
+C:\Users\pc\source\repos\DS project\main.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  global.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DS project.vcxproj -> C:\Users\pc\source\repos\DS project\Release\DS project.exe
